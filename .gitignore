@@ -1,7 +1,7 @@
 # Can ignore specific files
 .DS_Store
 .svn
-.svn/*
+*/.svn
 */bin
 */gen
 
